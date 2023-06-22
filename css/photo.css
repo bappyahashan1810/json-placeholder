@@ -1,0 +1,13 @@
+img {
+    width: 200;
+    height: 50;
+}
+
+.photo {
+    border: 2px solid;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+}
